@@ -1,0 +1,52 @@
+{
+  "result": [
+    {
+      "id": 1,
+      "no": "Frozen 2.",
+      "name": "Elsa sang Ratu Salju dan saudara perempuannya Anna memulai petualangan jauh dari kerajaan Arendelle. Mereka bergabung dengan teman, Kristoff, Olaf, dan Sven",
+      "birth_date": "7.3",
+      "Position": "20 November 2019 ( Indonesia )",
+      "Poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTASQOcj1QU4eQQDXp0H7TiMgVD23639KprA5McPuNCqo9O1i9t"
+    },
+    {
+      "id": 2,
+      "no": "Mulan ",
+      "name": "Untuk menyelamatkan ayahnya yang sakit agar tidak bertugas di Angkatan Darat Kekaisaran, seorang wanita muda yang tak kenal takut menyamar sebagai seorang pria untuk memerangi penjajah utara di Tiongkok.",
+      "birth_date": "-3.5 ",
+      "Position": " 25 Maret 2020",
+      "Poster": "https://pbs.twimg.com/media/EK9zDtnUcAA5zXM.jpg"
+    },
+    {
+      "id": 3,
+      "no": "The New Mutants, ",
+      "name": "Magik, Wolfsbane dan mutan remaja lainnya mencoba untuk berkuasa dengan kekuatan super mereka saat tinggal di fasilitas rahasia.",
+      "birth_date": "-7.92",
+      "Position":"2 Agustus 2019",
+      "Poster": "https://pbs.twimg.com/media/DQSbh_rVwAA0Dhw.jpg"
+    },
+    {
+      "id": 4,
+      "no": "Fast & Furious 9",
+      "name": "Fast & Furious 9 adalah film aksi Amerika mendatang yang disutradarai oleh Justin Lin dan ditulis oleh Chris Morgan dan Daniel Casey. Sekuel The Fate of the Furious 2017, itu akan menjadi angsuran kesepuluh dalam franchise Fast and the Furious dan film kesembilan di seri utama.",
+      "birth_date": "6.5",
+      "Position": "21 Mei 2020",
+      "Poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqRnVqjtdt3q1Qo2U7wNmC6uuPhOkmpAmQ6Fsee8X-poiKNFbLJw&s"
+    },
+    {
+      "id": 5,
+      "no": "Wonder Woman 1984 ",
+      "name": "Wonder Woman kuadrat melawan Cheetah, seorang penjahat yang memiliki kekuatan dan kelincahan manusia super.",
+      "birth_date": "-1.10",
+      "Position": " 4 Juni 2020",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzAyOGJkMzUtMmRjYS00NGJmLWExNGEtYzI2YjVmMmQzMzFiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_SX675_AL_.jpg"
+    },
+    {
+      "id": 6,
+      "no": "Black Window ",
+      "name": "Mata-mata dan pembunuh internasional Natasha Romanoff menjadi pahlawan super Black Widow.",
+      "birth_date": "8.5",
+      "Position": "30 April 2020",
+      "Poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUbIdTMu0z6QBuOQNqXPiUvKr4oqUuz2kSPJP8grqg0ALkfYrp"
+    }
+  ]
+}
